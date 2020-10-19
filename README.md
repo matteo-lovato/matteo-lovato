@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning everything 🤣
 - 🥅 Goals: Learn learn learn!!
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I like to do some fitness
 
 <br />
 
