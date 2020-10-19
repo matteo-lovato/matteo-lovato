@@ -17,17 +17,8 @@ UNDER CONSTRUCTION
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
 ---
 
   <img align="left" alt="Matteo's GitHub Stats" src="https://github-readme-stats.matteo-lovato.vercel.app/api?username=matteo-lovato&show_icons=true&hide_border=true" />
-
-</details>
