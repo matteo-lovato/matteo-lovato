@@ -2,13 +2,18 @@
 
 ## I'm a Developer that wants to learn more!!
 
-- 🔭 I’m currently learning everything 🤣
-- 🥅 Goals: Learn learn learn!!
+- 🔭 I’m currently learning Javascript
+- 🥅 Goals: Become a fullstack developer
 - ⚡ Fun fact: I like to do some fitness
 
 <br />
 
 ### Languages and Tools:
+
+VScode
+HTML & CSS
+Sass
+Javascript
 
 UNDER CONSTRUCTION
 
