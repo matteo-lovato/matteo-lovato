@@ -19,6 +19,4 @@ UNDER CONSTRUCTION
 
 :zap: GitHub Stats
 
----
-
   <img align="left" alt="Matteo's GitHub Stats" src="https://github-readme-stats.matteo-lovato.vercel.app/api?username=matteo-lovato&show_icons=true&hide_border=true" />
