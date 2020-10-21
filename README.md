@@ -10,10 +10,10 @@
 
 ### Languages and Tools:
 
-VScode
-HTML & CSS
-Sass
-Javascript
+- VScode
+- HTML & CSS
+- Sass
+- Javascript
 
 UNDER CONSTRUCTION
 
